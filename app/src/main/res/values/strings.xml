@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dogapp</string>
+    <string name="main_fragment">Home</string>
+    <string name="dogs_fragment">Fragment Dogs</string>
+    <string name="downloading">Downloading</string>
+    <string name="loading">Loading</string>
+    <string name="splash_title">Dogs and Dogs</string>
+</resources>
